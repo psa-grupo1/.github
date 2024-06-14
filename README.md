@@ -1,5 +1,3 @@
-# .github
-
 # TRIBU D:
 
 ## SQUAD 1:
