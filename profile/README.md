@@ -7,7 +7,6 @@
 - Molina, Taiel Alexis.
 
 ## SQUAD 12:
--
--
--
--
+- Anagua, Facundo
+- Monzón, Santiago Leonel
+- Toyos, Gonzalo Ezequiel
