@@ -23,7 +23,7 @@
 - [X] creo q en la cajita de filtrar por queda la flechita muy a la izq, deberiamos arreglarlo
 - [ ] falta conectar con el backend del otro squad
 - [ ] corregir lo de que hay que tirar f5 al crear un proyecto para que aparezca
-- [ ] corregir lo de que hay que tirar f5 al borrar un proyecto para que desaparezca
+- [X] corregir lo de que hay que tirar f5 al borrar un proyecto para que desaparezca
       
 #### ENTREGABLES
 
@@ -31,7 +31,7 @@ Hacer:
       
 - [X] C4 LVL 2
 - [X] C4 LVL 3 
-- [ ] User Story Map (creo q nunca lo hicimos)
+- [X] User Story Map (creo q nunca lo hicimos)
 
 Corregir:
 
