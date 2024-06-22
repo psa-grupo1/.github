@@ -27,8 +27,8 @@
 
 Hacer:
       
-- [ ] C4 LVL 2
-- [ ] C4 LVL 3 
+- [X] C4 LVL 2
+- [X] C4 LVL 3 
 - [ ] User Story Map (creo q nunca lo hicimos)
 
 Corregir:
