@@ -36,7 +36,8 @@ Hacer:
 Corregir:
 
 - [X] C4 LVL 1
-- [ ] HDU (solo falta soporte)
+- [X] HDU (solo falta soporte)
 - [ ] Matriz
-- [ ] Modelo de dominio (creeria q nada q corregir)
-- [ ] Modelo de datos (creeria q nada q corregir)
+- [X] Modelo de dominio (creeria q nada q corregir)
+- [X] Modelo de datos (creeria q nada q corregir)
+- [ ] C4s (deberian aparecer como base de datos separadas o con el "bases de datos" alcanza¿)
