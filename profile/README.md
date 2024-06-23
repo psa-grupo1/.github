@@ -17,8 +17,8 @@
 
 #### APP      
 
-- [ ] falta conectar con el backend del otro squad
-- [ ] seguir chequeando que la UI sea uniforme en cuanto a estilos y demás (solo falta lo de la tabla de tickets y la de tareas)
+- [ ] agregar los features de editar al front
+- [ ] agregar tests features editar
       
 #### ENTREGABLES
 
