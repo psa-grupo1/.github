@@ -22,8 +22,9 @@
 - [X] intentar cambiar la cajita del estado de un proyecto (el esperando confirmacion aparece cortado, no se termina de leer todo)
 - [X] creo q en la cajita de filtrar por queda la flechita muy a la izq, deberiamos arreglarlo
 - [ ] falta conectar con el backend del otro squad
-- [ ] corregir lo de que hay que tirar f5 al crear un proyecto para que aparezca
+- [X] corregir lo de que hay que tirar f5 al crear un proyecto para que aparezca
 - [X] corregir lo de que hay que tirar f5 al borrar un proyecto para que desaparezca
+- [ ] seguir chequeando que la UI sea uniforme en caunto a estilos y demás
       
 #### ENTREGABLES
 
