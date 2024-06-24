@@ -29,4 +29,4 @@ Hacer:
 
 Corregir:
 
-- [ ] Visión de módulo (MVP).
+- [X] Visión de módulo (MVP).
