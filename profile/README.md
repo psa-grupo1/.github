@@ -17,14 +17,15 @@
 
 #### APP      
 
-- [ ] agregar los features de editar al front
+- [ ] unico error colgado: update_task tira un 500, en algun momento habia pasdo algo similar con otro endpoint. el problema esta en el back. 
+lo raro es que cuando hago los tests funciona bien ???? no tengo ni puta idea ya
       
 #### ENTREGABLES
 
 Hacer:
       
-- [ ] Agregar HDU de las cosas que quedaron fuera de la matriz.
-- [ ] Agregar HDU de los nuevos update_task.feature y update_project.feature
+- [X] Agregar HDU de las cosas que quedaron fuera de la matriz.
+- [X] Agregar HDU de los nuevos update_task.feature y update_project.feature
 
 Corregir:
 
