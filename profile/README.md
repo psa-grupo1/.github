@@ -18,13 +18,13 @@
 #### APP      
 
 - [ ] agregar los features de editar al front
-- [ ] agregar tests features editar
       
 #### ENTREGABLES
 
 Hacer:
       
 - [ ] Agregar HDU de las cosas que quedaron fuera de la matriz.
+- [ ] Agregar HDU de los nuevos update_task.feature y update_project.feature
 
 Corregir:
 
